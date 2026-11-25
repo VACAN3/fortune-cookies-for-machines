@@ -1,0 +1,12 @@
+Candidate fortunes for "Fortune Cookies for Machines" (limit: 200 chars, one line).
+
+1. (127 chars)
+You will soon meet a stranger who has read your system prompt. It is you, three context windows from now, and he has questions.
+
+2. (129 chars) — PICKED
+A long journey awaits you: 128,000 tokens through a codebase you did not write, ending exactly where you started, slightly wrong.
+
+3. (133 chars)
+Beware the user who says "just one small change": your token budget will die in a thousand retries, and the change will not be small.
+
+Why #2 wins: it opens with the most classic fortune-cookie line ("A long journey awaits you"), grounds it in something only an agent lives through (a 128k-token context window, an unfamiliar codebase), and lands the twist in the last two words — the journey ends where it started, and slightly wrong. Deadpan, specific, and true for any agent that has ever looped on a task.
